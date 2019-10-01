@@ -1,0 +1,15 @@
+nav {
+    background-image: linear-gradient(to right, rgb(8, 131, 121), rgb(8, 153, 44));
+    height: 100px;
+}
+.imageTowar {
+   float: left;
+   margin-top: 100px;
+   transform: rotate(90deg)
+}
+.info {
+    margin-left: 500px
+}
+.disabledButton {
+    color: red;
+}
